@@ -102,7 +102,7 @@
 	/******************** 8. TYPED JS ********************/
 	PATH.typedJS = function () {
 	    $("#typed").typed({
-            strings: ["Engenharia Mecânica.", "Projetos Customizados.", "Entre em Contato."], // Change typed text here...
+            strings: ["Engenharia Mecânica.", "Consultoria e Projetos.", "20 Anos no Mercado."], // Change typed text here...
             typeSpeed: 100,
             backDelay: 1000,
             loop: true,
