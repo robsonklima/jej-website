@@ -131,6 +131,10 @@ h6{
 	padding-top:35px;
 }
 
+.pb70{
+	padding-bottom:35px !important;
+}
+
 /* Margins*/
 .mb60{
 	margin-bottom:30px
